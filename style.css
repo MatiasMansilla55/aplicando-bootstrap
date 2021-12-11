@@ -1,0 +1,17 @@
+
+.redes_ul{
+    margin-bottom: 15px;
+   margin-right: 15px;
+   margin-left: 15px;
+   margin-top: 15px; 
+   display: flex;
+   justify-content: space-between 
+}
+.redes_ul_img{
+   width: 20px;
+}
+/* Con el ancho y el alto la pagina se rompe */
+/* .card-group .card img{
+   width: 500px;
+   height: 300px;
+} */
